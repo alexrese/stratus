@@ -1,0 +1,20 @@
+[
+    {
+        name: "Águia",
+        url: "img/eagle.jpg",
+        equipe: "Alex, Fernando, Ivan",
+        descricao: "Imagem de uma águia"
+    },
+    {
+        name: "Cevada",
+        url: "cevada/eagle.jpg",
+        equipe: "Rese, Concatto, Galvagno",
+        descricao: "Imagem de uma cevada"
+    },
+    {
+        name: "Drive",
+        url: "img/drive.jpg",
+        equipe: "Luciano, Amado, Diesel",
+        descricao: "Imagem de um carro"
+    }
+]
